@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋, I'm Altamash Rizwi<br><br>🚀 ECE student at BIT Mesra, Ranchi<br>💻 Passionate about AI/ML, Web Development, and building real-world tech solutions<br>🔭 Got recognized by the Jharkhand Government and got funding for a Deep Learning project
+<!-- # 💫 About Me: -->
+# Hi there 👋, I'm Altamash Rizwi<br><br>
+🚀 ECE student at BIT Mesra, Ranchi<br>💻 Passionate about AI/ML, Web Development, and building real-world tech solutions<br>🔭 Got recognized by the Jharkhand Government and got funding for a Deep Learning project
 
 
 ## 🌐 Socials:
